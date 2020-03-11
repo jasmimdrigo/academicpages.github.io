@@ -10,4 +10,4 @@ redirect_from:
 
 
 
-Hello!
+I am a PhD Linguistics student at Cornell University. I am interested in Historical Linguistics, mostly on morphophonology of Italic and Celtic languages, and with a minor interest in linguistic processes of Brazilian Portuguese. 

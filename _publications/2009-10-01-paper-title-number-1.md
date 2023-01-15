@@ -1,5 +1,5 @@
 ---
-title: "As línguas da Itália Antiga: um breve panorama"
+title: "As linguas da Italia Antiga um breve panorama"
 collection: publications
 permalink: /publication/2018-10-01-as-linguas-da-italia-antiga-um-breve-panorama
 excerpt: 'Este artigo traça um panorama das línguas de maior expressão da Itália Antiga durante os séculos VI a I a.C'
